@@ -1,0 +1,10 @@
+# ===============================================================================
+# Git ignore configuration file
+#
+# Author: Miguel Ángel de la Rosa García
+#
+# This file is part of Prueba IA Resuelve project.
+# ===============================================================================
+
+__pycache__/
+env/
